@@ -1,7 +1,24 @@
 # Задача 1. Список друзей
 
 
+## Project setup
+npm install
+
+
+## Compiles and hot-reloads for development
+npm run start
+
+
 ## Описание
+
+
+
+
+
+
+
+
+
 
 Написать скрипт, который отобразит на странице список имен на основе данных, полученных из файла `data.json`.
 По аналогии с скриншотом:
